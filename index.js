@@ -7,8 +7,8 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = 7523922981:AAExtcm41h2n7CWGEg-78dOSb3sC4vZ9aXc
-const id = 5439373820
+const token = '7523922981:AAExtcm41h2n7CWGEg-78dOSb3sC4vZ9aXc'
+const id = '5439373820'
 const address = 'https://papajihu.onrender.com'
 
 const app = express();
